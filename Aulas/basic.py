@@ -29,6 +29,8 @@ brasileiro = True
 #print(texto.lower())
 #print(texto.capitalize())
 #print(texto.split(' '))
+#print(texto.replace('e', 'a'))
+
 
 
 
